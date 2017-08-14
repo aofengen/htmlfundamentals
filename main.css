@@ -1,7 +1,13 @@
-p {
+/*p {
 	color: red;
-}
+}*/
 
+.div-1 {
+	 background-color: lightblue;
+	 padding: 20px;
+	 border-radius: 5px;
+	 width: 50%;
+}
 #robotdonutimage {
 	border-radius: 150px;
 }
